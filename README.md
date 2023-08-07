@@ -2,13 +2,14 @@
 
 
 - 🔭 I’m currently working at Viacom18 Media Pvt Ltd as Technical Lead Platform
-- 🌱 I’m currently learning and leading  OTT,BOT Analaysis, AUTH Security, AWS, Node Js
+- 🌱 I’m currently learning and leading  OTT,BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, Partner Integrations
+- :muscle: I’m currently learning and leading  OTT,BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, Partner Integrations
 - 💬 Ask me about : As back end engineer and full stack developer
 - 📫 How to reach me: 29veeramani@gmail.com or +919943097782
 - 😄 Pronouns: Veera
 - ⚡ Fun fact: Listening songs playing cricket 
 
-- 9+ Years of experience as a Backend Developer.
+- 10+ Years of experience as a Backend Developer and 4+ Years of Lead.
 - ➢ Previously worked at Claysol Media Labs Pvt Ltd as
 Senior Software Engineer from Mar 2020 to Sep 2021 onwards.
 - ➢ Previously worked at Japan (India) Macro Advisors as
