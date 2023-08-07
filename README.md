@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning and leading  OTT,BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, MongoDB, MySQL, Cassendra, Elasticsearch, ElastiCache, kafka and Partner Integrations
 - :muscle: What I learn and worked already PHP, AWS, JavaScript, HTML, CSS, jQuery, MongoDB, MySQL, Elasticsearch, ElastiCache, Payment Integrations, Highcharts, MongoDB, MySQL REST API and Microservices
 - :iphone: Applications  ➢ Ex-Siti Playtop Magic | Ex-Voot | Jiocinema
-- :computer: Applications  ➢ https://reservationfactory.com/ | [BestOrbit](https://bestorbit.com/) | [CruiseBooking](https://cruisebookings.me/) | https://www.jiocinema.com/
+- :computer: Applications  ➢ [ReservationFactory](https://reservationfactory.com/) | [BestOrbit](https://bestorbit.com/) | [CruiseBooking](https://cruisebookings.me/) | [JioCinema](https://www.jiocinema.com/) | [JioCinema](https://www.voot.com/) | http://pro-kitchen.com/ | https://www.hathairextensions.com/
 - 💬 Ask me about : As back end engineer and full stack developer
 - 📫 How to reach me: 29veeramani@gmail.com or +919943097782
 - 😄 Pronouns: Veera
