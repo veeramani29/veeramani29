@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working at Viacom18 Media Pvt Ltd as Technical Lead Platform
-- 🌱 I’m currently learning and leading  OTT,BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, MongoDB, MySQL, Cassendra, Elasticsearch, ElastiCache, kafka and Partner Integrations
-- :muscle: What I learn and worked already PHP, AWS, JavaScript, HTML, CSS, jQuery, MongoDB, MySQL, Elasticsearch, ElastiCache, Payment Integrations, Highcharts, MongoDB, MySQL REST API and Microservices
+- 🌱 I’m currently learning and leading  OTT,BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, MongoDB, MySQL, Cassendra, Elasticsearch, ElastiCache, Kafka, Microservices, REST and Partner Integrations
+- :muscle: What I learn and worked already PHP, AWS, JavaScript, HTML, CSS, jQuery, MongoDB, MySQL, Elasticsearch, ElastiCache, Payment Integrations, Highcharts, MongoDB, MySQL REST API, SOAP, Web Scarpping and Microservices
 - :iphone: Applications  ➢ Ex-Siti Playtop Magic | Ex-Voot | Jiocinema
 - :computer: Applications  ➢ [ReservationFactory](https://reservationfactory.com/) | [BestOrbit](https://bestorbit.com/) | [CruiseBooking](https://cruisebookings.me/) | [JioCinema](https://www.jiocinema.com/) | [JioCinema](https://www.voot.com/) | http://pro-kitchen.com/ | https://www.hathairextensions.com/
 - 💬 Ask me about : As back end engineer and full stack developer
@@ -36,7 +36,7 @@ and learning new technologies.
 - ➢ Tracked and solved tickets for defects on bug reporting tools (JIRA, Youtrack, Trello).
 - ➢ Implemented payment system using Stripe, RazorPay, PayPal, iDeal, Ogone, Payfort.
 - ➢ Used Ajax calls through Handlebars JS to populate the data tables on the front-end.
-- ➢ Excellent command over (Core PHP, MySQL, MongoDB, Node JS and Server Setup, CodeIgniter,
+- ➢ Excellent command over (Core PHP, MySQL, Go, REST API, SOAP, MongoDB, Node JS and Server Setup, CodeIgniter,
 Laravel Framework and Basic Vue Js)
 - ➢ Experience working on OOPS Concept, API, Web Services and Cloud Environment a plus.
 - ➢ Worked OOPS concept JavaScript, Highcharts, Node JS Server.
@@ -46,3 +46,4 @@ Laravel Framework and Basic Vue Js)
 - ➢ Worked maximum Travel Portal Web services, Revelex, Hotelbeds(XML, Soap, Rest, Microservices).
 - ➢ Social API’s.
 - ➢ Shell Scripts.
+- ➢ Microservices, REST and SOAP.
