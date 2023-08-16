@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working at Viacom18 Media Pvt Ltd as a Technical Lead Platform
-- 🌱 I’m currently learning and leading  OTT, BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, MongoDB, MySQL, Cassandra, Elasticsearch, ElastiCache, Kafka, Microservices, REST and Partner Integrations
-- :muscle: What I learn and worked already PHP, AWS, JavaScript, HTML, CSS, jQuery, MongoDB, MySQL, Elasticsearch, ElastiCache, Payment Integrations, Highcharts, MongoDB, MySQL REST API, SOAP, Web Scrapping and Microservices
+- 🌱 I’m currently learning and leading  OTT, BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, MongoDB, MySQL, Cassandra, Elasticsearch, ElastiCache, Kafka, Microservices, CMS, SEO, XML, REST and Partner Integrations
+- :muscle: What I learn and worked already PHP, AWS, JavaScript, HTML, CSS, jQuery, MongoDB, MySQL, Elasticsearch, ElastiCache, Payment Integrations, Highcharts, MongoDB, MySQL, REST API, SOAP, Laravel, Web Scrapping and Microservices
 - :iphone: Applications  ➢ Ex-Siti Playtop Magic | Ex-Voot | Jiocinema
 - :computer: Applications  ➢ [ReservationFactory](https://reservationfactory.com/) | [BestOrbit](https://bestorbit.com/) | [CruiseBooking](https://cruisebookings.me/) | [JioCinema](https://www.jiocinema.com/) | [JioCinema](https://www.voot.com/) | http://pro-kitchen.com/ | https://www.hathairextensions.com/
 - 💬 Ask me about: As back end engineer and full stack developer
