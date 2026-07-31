@@ -1,6 +1,6 @@
 # Hi, I'm Veera 👋
 
-### SDE III | AWS Cloud Engineer | AI Engineer
+### SDE III | Backend & AWS Cloud Engineer | AI/LLM Engineer | Technical Leadership
 
 I'm an SDE III at Gilbarco Veeder-Root, working on [Invenco.com](https://invenco.com/) and [Invenco Cloud](https://invencocloud.com/) applications. I’m a backend/full-stack engineer with 13+ years of experience, including 4+ years in technical leadership and principal/lead engineering roles, building web applications, APIs, integrations, and microservices.
 
@@ -28,16 +28,17 @@ The online layer provides secure remote monitoring and control, while the local 
 
 ## Skills and technologies 🛠️
 
-- **Languages and web:** PHP, JavaScript, HTML, CSS, and Go.
-- **Backend and APIs:** Node.js, REST APIs, SOAP, microservices, Laravel, and CodeIgniter
-- **Databases, search, and caching:** MySQL, MongoDB, Cassandra, Elasticsearch, and ElastiCache
-- **Cloud and platform:** AWS, GCP, CMS, SEO, XML, shell scripting, and authentication/security
+- **Languages and web:** PHP, JavaScript, TypeScript, HTML, CSS, Go, jQuery, and Handlebars.js
+- **Backend and APIs:** Node.js, Express, RESTful APIs, SOAP, microservices, Laravel, and CodeIgniter
+- **Databases, search, messaging, and caching:** MySQL, MongoDB, Cassandra, Kafka, Elasticsearch, and Redis
+- **Cloud and platform:** AWS, GCP, Akamai, CMS, SEO, XML, serverless, shell scripting, and authentication/security
 - **Frontend and visualization:** Vue.js (basic), Highcharts, and Ajax
+- **Testing and delivery:** Jest, Mocha, PHPUnit, Assert, Artillery performance testing, GitHub Actions, Bitbucket, and CI/CD
 - **Integrations:** Stripe, Razorpay, PayPal, iDEAL, Ogone, PayFort, Mailgun, social APIs, and partner integrations
 
 ## AWS cloud experience ☁️
 
-- **AWS services:** AWS Lambda, Amazon ECS, Amazon API Gateway, Amazon MSK (Managed Streaming for Apache Kafka), Amazon S3, Amazon EC2, Amazon EBS, Amazon Route 53, Amazon RDS, Amazon DynamoDB, Amazon MemoryDB for Redis, Amazon ElastiCache for Redis, and AWS WAF
+- **AWS services:** AWS Lambda, Amazon ECS, Amazon API Gateway, Amazon MSK (Managed Streaming for Apache Kafka), Amazon S3, Amazon EC2, Amazon EBS, Amazon VPC, Amazon Machine Images (AMIs), Amazon Route 53, Amazon RDS, Amazon DynamoDB, Amazon MemoryDB for Redis, Amazon ElastiCache for Redis, Amazon CloudWatch, AWS Config, Auto Scaling, Amazon CloudFront, AWS IAM, AWS WAF, Amazon SES, Amazon Cognito, and Amazon OpenSearch Service (formerly Amazon Elasticsearch Service)
 - Designing and supporting application workloads and backend services on AWS
 - Cloud environment setup, server configuration, deployment, and operational support
 - Deploying REST and SOAP APIs, microservices, web applications, and integration services
@@ -78,15 +79,25 @@ The online layer provides secure remote monitoring and control, while the local 
 
 - System design and architecture for backend services, APIs, integrations, microservices, and cloud applications
 - Technical leadership, mentoring, code reviews, engineering standards, and cross-team collaboration
+- Led teams of up to five junior developers and supported knowledge sharing across engineering teams
 - Database and user-interface analysis, requirements management, and support for multiple projects
-- Code reviews, defect tracking, troubleshooting, and problem solving
+- Code reviews, defect tracking, troubleshooting, problem solving, and production support
+- Security use cases, bot activity management, and secure application delivery
 - Payment systems and third-party integrations
+- Subscription plan design and implementation
 - Travel portals and services including Revelex and Hotelbeds through XML, SOAP, REST, and microservices
-- Automated deployments using Bitbucket and GitHub
+- Automated deployments using Bitbucket, GitHub, and GitHub Actions
+- Unit, integration, and performance testing with Jest, Mocha, PHPUnit, Assert, and Artillery
 - Web scraping and bulk email processing with Mailgun
 - Team collaboration, adaptability, time management, and delivery under pressure
+
+## Recognition and education 🎓
+
+- **Award:** Best Security Use-Case Award — Akamai EdgeWorkers Coding Challenge (EWCC) APJ 2.0
+- **Education:** Bachelor of Engineering in Electronics and Communication Engineering, Prince Shri Venkateshwara Padmavathy Engineering College (2008–2012)
 
 ## Contact 📫
 
 - Email: [29veeramani@gmail.com](mailto:29veeramani@gmail.com)
+- LinkedIn: [linkedin.com/in/veeramani-k-02982166](https://www.linkedin.com/in/veeramani-k-02982166/)
 - Phone: [+91 99439 9782](tel:+919943097782)
