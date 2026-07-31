@@ -1,49 +1,92 @@
-### Hi there 👋
+# Hi, I'm Veera 👋
 
+### SDE III | AWS Cloud Engineer | AI Engineer
 
-- 🔭 I’m currently working at Viacom18 Media Pvt Ltd as a Technical Lead Platform
-- 🌱 I’m currently learning and leading  OTT, BOT Analaysis, AUTH Security, AWS, Node Js, Go, GCP, MongoDB, MySQL, Cassandra, Elasticsearch, ElastiCache, Kafka, Microservices, CMS, SEO, XML, REST and Partner Integrations
-- :muscle: What I learn and worked already PHP, AWS, JavaScript, HTML, CSS, jQuery, MongoDB, MySQL, Elasticsearch, ElastiCache, Payment Integrations, Highcharts, MongoDB, MySQL, REST API, SOAP, Laravel, Web Scrapping and Microservices
-- :iphone: Applications  ➢ Ex-Siti Playtop Magic | Ex-Voot | Jiocinema
-- :computer: Applications  ➢ [ReservationFactory](https://reservationfactory.com/) | [BestOrbit](https://bestorbit.com/) | [CruiseBooking](https://cruisebookings.me/) | [JioCinema](https://www.jiocinema.com/) | [JioCinema](https://www.voot.com/) | http://pro-kitchen.com/ | https://www.hathairextensions.com/
-- 💬 Ask me about: As back end engineer and full stack developer
-- 📫 How to reach me: 29veeramani@gmail.com or +919943097782
+I'm an SDE III at Gilbarco Veeder-Root, working on [Invenco.com](https://invenco.com/) and [Invenco Cloud](https://invencocloud.com/) applications. I’m a backend/full-stack engineer with 13+ years of experience, including 4+ years in technical leadership and principal/lead engineering roles, building web applications, APIs, integrations, and microservices.
+
+## About me 👨‍💻
+
+- 🔭 Currently focused on Invenco.com and Invenco Cloud applications, authentication and security, cloud platforms, and partner integrations, with previous experience in OTT platforms and bot analysis.
+- 💬 Ask me about backend engineering, full-stack development, APIs, microservices, and platform engineering.
+- 🌱 Continuously learning and growing in cloud-native architecture, AI/LLM engineering, RAG, vector databases, context and harness engineering, MCP integrations, and agentic development workflows with Devin CLI and Claude CLI.
 - 😄 Pronouns: Veera
-- ⚡ Fun fact: Listening songs and playing cricket 
+- ⚡ Fun fact: I enjoy listening to music and playing cricket.
 
-- :thumbsup: 10+ Years of experience as a Backend Developer and 4+ Years of Lead.
-- ➢ Previously worked at Claysol Media Labs Pvt Ltd as
-Senior Software Engineer from Mar 2020 to Sep 2021 onwards.
-- ➢ Previously worked at Japan (India) Macro Advisors as
-Software Engineer from Feb 2016 to Mar 2020.
-- ➢ Previously worked at Provab Techno soft as Software
-An engineer from Jan 2015 to Feb 2016.
-- ➢ Started career at Reckon Coders Informatics as
-Software Engineer from Mar 2013 to Jan 2015.
+## Current project: Invenco forecourt platform ⛽
 
-### Experienced In
-- ➢ Analysis and design of databases, and user interfaces, managing requirements and supporting multiple
-projects.
-- ➢ Time management, decision making, and priorities abilities are my assets.
-- ➢ Highly adaptable in quickly changing technical environments with very strong organizational and
-analytical skills.
-- ➢ Focused to deliver solutions, good analytical capabilities, responsible, and quick at grasping concepts
-and learning new technologies.
-- ➢ Highly committed individual with proven ability to learn fast and work well under pressure.
-- ➢ Proficient at working as a team player with the aim of contributing towards the team’s success.
-- ➢ Highly motivated, dependable troubleshooting and problem solver.
-- ➢ Performing code review activities.
-- ➢ Tracked and solved tickets for defects on bug reporting tools (JIRA, Youtrack, Trello).
-- ➢ Implemented payment system using Stripe, RazorPay, PayPal, iDeal, Ogone, and Payfort.
-- ➢ Used Ajax calls through Handlebars JS to populate the data tables on the front end.
-- ➢ Excellent command over (Core PHP, MySQL, Go, REST API, SOAP, MongoDB, Node JS, and Server Setup, CodeIgniter,
-Laravel Framework and Basic Vue Js)
-- ➢ Experience working on OOPS Concepts, API, Web Services, and Cloud Environment a plus.
-- ➢ Worked on OOPS concept JavaScript, Highcharts, Node JS Server.
-- ➢ Used to auto-deployment in Bitbucket and GitHub.
-- ➢ Data scrapped (crawled) from third-party websites by web scraping method.
-- ➢ Bulk Email process through Mailgun.
-- ➢ Worked maximum Travel Portal Web services, Revelex, Hotelbeds(XML, Soap, Rest, Microservices).
-- ➢ Social APIs.
-- ➢ Shell Scripts.
-- ➢ Microservices, REST, and SOAP.
+As an SDE III at Gilbarco Veeder-Root, I work on [Invenco.com](https://invenco.com/) and [Invenco Cloud](https://invencocloud.com/) applications that support connected forecourt operations. These platforms bring together forecourt devices and business systems such as payment terminals, dispensers, point-of-sale systems, automatic tank gauges, and fuel-pricing services.
+
+Through Invenco’s cloud-connected [Hub](https://www.invenco.com/us/en/solutions/the-hub) and [remote-management capabilities](https://www.invenco.com/us/en/solutions/remote-management), authorised operators can manage their sites online by:
+
+- Monitoring device health, performance, flow rates, and operational data
+- Configuring connected equipment and collecting asset information
+- Scheduling remote software updates for supported terminals and dispensers
+- Performing remote power cycling and maintenance actions where supported
+- Reducing on-site visits through centralised monitoring and troubleshooting
+
+The online layer provides secure remote monitoring and control, while the local site controller and forecourt equipment continue to handle on-site device communication and operations. This architecture combines cloud-based management with local resilience rather than relying exclusively on an internet connection.
+
+## Skills and technologies 🛠️
+
+- **Languages and web:** PHP, JavaScript, HTML, CSS, and Go.
+- **Backend and APIs:** Node.js, REST APIs, SOAP, microservices, Laravel, and CodeIgniter
+- **Databases, search, and caching:** MySQL, MongoDB, Cassandra, Elasticsearch, and ElastiCache
+- **Cloud and platform:** AWS, GCP, CMS, SEO, XML, shell scripting, and authentication/security
+- **Frontend and visualization:** Vue.js (basic), Highcharts, and Ajax
+- **Integrations:** Stripe, Razorpay, PayPal, iDEAL, Ogone, PayFort, Mailgun, social APIs, and partner integrations
+
+## AWS cloud experience ☁️
+
+- **AWS services:** AWS Lambda, Amazon ECS, Amazon API Gateway, Amazon MSK (Managed Streaming for Apache Kafka), Amazon S3, Amazon EC2, Amazon EBS, Amazon Route 53, Amazon RDS, Amazon DynamoDB, Amazon MemoryDB for Redis, Amazon ElastiCache for Redis, and AWS WAF
+- Designing and supporting application workloads and backend services on AWS
+- Cloud environment setup, server configuration, deployment, and operational support
+- Deploying REST and SOAP APIs, microservices, web applications, and integration services
+- Automating build, release, and deployment workflows with GitHub and Bitbucket
+- Applying security-aware configuration for applications, APIs, authentication, and environments
+- Integrating cloud-hosted applications with databases, caching layers, storage, and third-party services
+- Troubleshooting, performance optimisation, scalability, and reliability across development and production environments
+
+## AI and developer tooling 🤖
+
+- **LLM applications:** Large language models, prompt design, AI-assisted development, and agent workflows
+- **Retrieval-augmented generation:** RAG pipelines, document retrieval, grounding, and knowledge-base integration
+- **Vector search:** Vector databases, embeddings, semantic search, and similarity retrieval
+- **AI engineering:** Harness engineering, context engineering, evaluation, guardrails, and reliable AI workflows
+- **Rules and skills:** Designing reusable AI rules, custom skills, agent instructions, and project-specific workflows
+- **AI-assisted software engineering:** Expert use of Devin CLI and Claude CLI for repository exploration, implementation, debugging, testing, code review, and delivery
+- **MCP integrations:** Using the Model Context Protocol to connect AI agents with tools, repositories, APIs, databases, and external services
+- **Agent workflows:** Designing context-aware agent workflows for task planning, automation, documentation, and software delivery
+
+## Selected applications 🚀
+
+- **Payments and retail technology:** [Invenco.com](https://invenco.com/) and [Invenco Cloud](https://invencocloud.com/) applications
+- **Streaming and media:** Siti Playtop Magic, Voot, [JioCinema](https://www.jiocinema.com/), and [JioHotstar](https://www.hotstar.com/in/)
+- **Travel and booking:** ReservationFactory, BestOrbit, and CruiseBooking
+- **Other applications:** [ProKitchen](http://pro-kitchen.com/) and [Hat Hair Extensions](https://www.hathairextensions.com/)
+
+## Professional experience 💼
+
+- **Gilbarco Veeder-Root** — SDE III, working on [Invenco.com](https://invenco.com/) and [Invenco Cloud](https://invencocloud.com/) applications
+- **Wissen Technology** — Principal Engineer
+- **Viacom18 Media Pvt. Ltd.** — Technical Lead, Platform
+- **Claysol Media Labs Pvt. Ltd.** — Senior Software Engineer, Mar 2020–Sep 2021
+- **Japan (India) Macro Advisors** — Software Engineer, Feb 2016–Mar 2020
+- **Provab Technosoft** — Software Engineer, Jan 2015–Feb 2016
+- **Reckon Coders Informatics** — Software Engineer, Mar 2013–Jan 2015
+
+## Professional strengths 🎯
+
+- System design and architecture for backend services, APIs, integrations, microservices, and cloud applications
+- Technical leadership, mentoring, code reviews, engineering standards, and cross-team collaboration
+- Database and user-interface analysis, requirements management, and support for multiple projects
+- Code reviews, defect tracking, troubleshooting, and problem solving
+- Payment systems and third-party integrations
+- Travel portals and services including Revelex and Hotelbeds through XML, SOAP, REST, and microservices
+- Automated deployments using Bitbucket and GitHub
+- Web scraping and bulk email processing with Mailgun
+- Team collaboration, adaptability, time management, and delivery under pressure
+
+## Contact 📫
+
+- Email: [29veeramani@gmail.com](mailto:29veeramani@gmail.com)
+- Phone: [+91 99439 9782](tel:+919943097782)
